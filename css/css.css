@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+    background-color: #e9eb96;
+    align-items: center;
+}
+
+div {
+    border: 1px solid #333;
+    padding: 32px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+h3 {
+    color: #d80d0d;
+    margin-bottom: 42px;
+    font-size: 45px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+}
+
+p {
+    color: #000000
+}
+
+.image-wrapper {
+    text-align: center;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
